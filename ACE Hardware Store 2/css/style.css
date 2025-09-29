@@ -233,7 +233,7 @@ section{
 }
 
 .home-bg{
-   background:url(../images/home-bg.png) no-repeat;
+   background:url(../images/videoframe_2923.png) no-repeat;
    background-size: cover;
    background-position: center;
 }
@@ -1057,5 +1057,6 @@ section{
    .checkout-orders form .flex .inputBox{
       width: 100%;
    }
+
 
 }
