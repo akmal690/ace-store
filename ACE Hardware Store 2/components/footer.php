@@ -20,10 +20,10 @@
 
       <div class="box">
          <h3>Contact Us.</h3>
-         <a href="tel:9800000000"><i class="fas fa-phone"></i> +94 77 890 7900</a>
-         <a href="tel:9900000000"><i class="fas fa-phone"></i> +94 74 098 8778</a>
-         <a href="mailto:harshchy143@gmail.com"><i class="fas fa-envelope"></i> AKMAL_2023@gmail.com</a>
-         <a href="https://www.google.com/myplace"><i class="fas fa-map-marker-alt"></i> kallarchchal-2, sammanturi </a>
+         <a href="tel:9200000000"><i class="fas fa-phone"></i> +94 77 123 4567</a>
+         <a href="tel:9600000000"><i class="fas fa-phone"></i> +94 74 567 8900</a>
+         <a href=""><i class="fas fa-envelope"></i> AKMAL_2023@gmail.com</a>
+         <a href=""><i class="fas fa-map-marker-alt"></i> kallarchchal-2, sammanturi </a>
       </div>
 
       <div class="box">
@@ -37,5 +37,6 @@
    </section>
 
    <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>ACE Hardware Store</span> | all rights reserved!</div>
+
 
 </footer>
